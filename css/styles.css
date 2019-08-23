@@ -1,0 +1,43 @@
+.container-fluid{
+    background-color: yellow;
+    border: 1px solid black;
+    height: 52em;
+    margin: 50px 0px 5px 0px; 
+}
+.header{
+background-color: rgb(0, 0, 255);
+border: 1px solid black;
+height: 10em;
+margin: 50px 0px 5px 0px; 
+}
+.nav{
+background-color: green;
+border: 1px solid black;
+height: 5em;
+margin: 5px 0px 5px 0px; 
+}
+.content{
+    background-color: red;
+    border: 1px solid black;
+    height: 10em;
+    margin: 10px 0px 5px 0px; 
+}
+.aside{
+    background-color: rgb(0, 247, 255);
+    border: 1px solid rgb(0, 0, 0);
+    height: 10em;
+    margin: 10px 0px 5px 0px; 
+}
+.promo{
+    background-color: rgb(255, 145, 0);
+    border: 1px solid black;
+    height: 8em;
+    margin: 10px 0px 5px 0px; 
+}
+.footer{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid black;
+    height: 8em;
+    margin: 10px 0px 5px 0px; 
+    color: white;
+}
